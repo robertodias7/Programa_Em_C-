@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Cap02_Ex2\Cap02_Ex2\bin\Debug\Cap02_Ex2.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Cap02_Ex2\Cap02_Ex2\bin\Debug\Cap02_Ex2.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Cap02_Ex2\Cap02_Ex2\bin\Debug\Cap02_Ex2.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Cap02_Ex2\Cap02_Ex2\obj\Debug\Cap02_Ex2.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Cap02_Ex2\Cap02_Ex2\obj\Debug\Cap02_Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Cap02_Ex2\Cap02_Ex2\obj\Debug\Cap02_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Cap02_Ex2\Cap02_Ex2\obj\Debug\Cap02_Ex2.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Cap02_Ex2\Cap02_Ex2\obj\Debug\Cap02_Ex2.pdb
