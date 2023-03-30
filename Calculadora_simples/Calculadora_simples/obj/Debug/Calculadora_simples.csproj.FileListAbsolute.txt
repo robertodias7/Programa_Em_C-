@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples\Calculadora_simples\bin\Debug\Calculadora_simples.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples\Calculadora_simples\bin\Debug\Calculadora_simples.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples\Calculadora_simples\bin\Debug\Calculadora_simples.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples\Calculadora_simples\obj\Debug\Calculadora_simples.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples\Calculadora_simples\obj\Debug\Calculadora_simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples\Calculadora_simples\obj\Debug\Calculadora_simples.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples\Calculadora_simples\obj\Debug\Calculadora_simples.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples\Calculadora_simples\obj\Debug\Calculadora_simples.pdb
