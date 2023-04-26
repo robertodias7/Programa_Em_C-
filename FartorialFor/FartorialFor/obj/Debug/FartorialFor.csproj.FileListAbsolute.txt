@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FartorialFor\FartorialFor\bin\Debug\FartorialFor.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FartorialFor\FartorialFor\bin\Debug\FartorialFor.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FartorialFor\FartorialFor\bin\Debug\FartorialFor.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FartorialFor\FartorialFor\obj\Debug\FartorialFor.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FartorialFor\FartorialFor\obj\Debug\FartorialFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FartorialFor\FartorialFor\obj\Debug\FartorialFor.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FartorialFor\FartorialFor\obj\Debug\FartorialFor.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FartorialFor\FartorialFor\obj\Debug\FartorialFor.pdb

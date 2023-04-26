@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples_switch\Calculadora_simples_switch\bin\Debug\Calculadora_simples_switch.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples_switch\Calculadora_simples_switch\bin\Debug\Calculadora_simples_switch.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples_switch\Calculadora_simples_switch\bin\Debug\Calculadora_simples_switch.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples_switch\Calculadora_simples_switch\obj\Debug\EscolhendoMes.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples_switch\Calculadora_simples_switch\obj\Debug\EscolhendoMes.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples_switch\Calculadora_simples_switch\obj\Debug\EscolhendoMes.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples_switch\Calculadora_simples_switch\obj\Debug\Calculadora_simples_switch.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Calculadora_simples_switch\Calculadora_simples_switch\obj\Debug\Calculadora_simples_switch.pdb

@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Teste\Teste\obj\Debug\Teste.pdb

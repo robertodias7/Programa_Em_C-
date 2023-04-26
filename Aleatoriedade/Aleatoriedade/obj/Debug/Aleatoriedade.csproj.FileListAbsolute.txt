@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Aleatoriedade\Aleatoriedade\bin\Debug\Aleatoriedade.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Aleatoriedade\Aleatoriedade\bin\Debug\Aleatoriedade.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Aleatoriedade\Aleatoriedade\bin\Debug\Aleatoriedade.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Aleatoriedade\Aleatoriedade\obj\Debug\Aleatoriedade.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Aleatoriedade\Aleatoriedade\obj\Debug\Aleatoriedade.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Aleatoriedade\Aleatoriedade\obj\Debug\Aleatoriedade.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Aleatoriedade\Aleatoriedade\obj\Debug\Aleatoriedade.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Aleatoriedade\Aleatoriedade\obj\Debug\Aleatoriedade.pdb

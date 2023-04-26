@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialDo\FatorialDo\bin\Debug\FatorialDo.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialDo\FatorialDo\bin\Debug\FatorialDo.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialDo\FatorialDo\bin\Debug\FatorialDo.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialDo\FatorialDo\obj\Debug\FatorialDo.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialDo\FatorialDo\obj\Debug\FatorialDo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialDo\FatorialDo\obj\Debug\FatorialDo.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialDo\FatorialDo\obj\Debug\FatorialDo.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialDo\FatorialDo\obj\Debug\FatorialDo.pdb
