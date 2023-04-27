@@ -1,8 +1,0 @@
-C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Programa1\Programa1\bin\Debug\Programa1.exe.config
-C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Programa1\Programa1\bin\Debug\Programa1.exe
-C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Programa1\Programa1\bin\Debug\Programa1.pdb
-C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Programa1\Programa1\obj\Debug\Programa1.csproj.AssemblyReference.cache
-C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Programa1\Programa1\obj\Debug\Programa1.csproj.SuggestedBindingRedirects.cache
-C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Programa1\Programa1\obj\Debug\Programa1.csproj.CoreCompileInputs.cache
-C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Programa1\Programa1\obj\Debug\Programa1.exe
-C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Programa1\Programa1\obj\Debug\Programa1.pdb
