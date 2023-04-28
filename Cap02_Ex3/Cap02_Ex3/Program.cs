@@ -10,24 +10,23 @@ namespace Cap02_Ex3
     {
         static void Main(string[] args)
         {
-            float HT, VH, PD, SB, TD, SL;
+            float WH, HV, DP, GS, TH, NS;
 
-            Console.Write("Horas trabalhadas.....: ");
-            HT = float.Parse(Console.ReadLine());
-            Console.Write("Valor da hora.........: ");
-            VH = float.Parse(Console.ReadLine());
-            Console.Write("Valor do Percentual...: ");
-            PD = float.Parse(Console.ReadLine());
+            Console.Write("Worked hours: ");
+            WH = float.Parse(Console.ReadLine());
+            Console.Write("Hour value: ");
+            HV = float.Parse(Console.ReadLine());
+            Console.Write("Discount percentage value: ");
+            DP = float.Parse(Console.ReadLine());
 
-            SB = HT * VH;
-            TD = (PD / 100) * SB;
-            SL = SB - TD;
+            GS = WH * HV; // Salário Bruto
+            TH = (DP / 100) * GS; // Total de Horas
+            NS = GS - TH; // Salário Líquido
 
             Console.WriteLine();
-            Console.WriteLine("Salário líquido...: ");
-            Console.WriteLine(SL.ToString("##, ##0.00")); // formatação de números
+            Console.WriteLine("Net Salary: "); Console.WriteLine(NS.ToString("##,##0.00"));
             Console.WriteLine();
-            Console.WriteLine("Tecle <Enter> para encerrar ... ");
+            Console.WriteLine("Press <Enter> to exit");
             Console.ReadLine();
         }
     }
