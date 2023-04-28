@@ -12,21 +12,18 @@ namespace Cap02_Ex2
         {
             //Aplicação com Valor Inteiro
 
-            int a, b, r;
-            Console.Write("Entre o 1o. Valor: ");
-            a = int.Parse(Console.ReadLine());
-            //Converte o número para inteiro. Entrada de dado capturado pelo ReadLine()
+            int A, B, R;
+            Console.Write("Enter with 1o number: ");
+            A = int.Parse(Console.ReadLine());
+            Console.Write("Enter with 2o number: ");
+            B = int.Parse(Console.ReadLine());
 
-            Console.Write("Entre o 2o. Valor: ");
-            b = int.Parse(Console.ReadLine());
-
-            r = a + b;
+            R = A + B;
 
             Console.WriteLine();
-            Console.WriteLine("Resultado = " + r);
-
+            Console.WriteLine("The sum of the two number is: "+ R);
             Console.WriteLine();
-            Console.Write("Tecle <Enter> para encerrar... ");
+            Console.WriteLine("Press <Enter> to exit");
             Console.ReadLine();
         }
     }
