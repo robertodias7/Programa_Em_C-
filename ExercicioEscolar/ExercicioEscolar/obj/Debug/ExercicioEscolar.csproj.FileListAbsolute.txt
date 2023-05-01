@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ExercicioEscolar\ExercicioEscolar\bin\Debug\ExercicioEscolar.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ExercicioEscolar\ExercicioEscolar\bin\Debug\ExercicioEscolar.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ExercicioEscolar\ExercicioEscolar\bin\Debug\ExercicioEscolar.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ExercicioEscolar\ExercicioEscolar\obj\Debug\ExercicioEscolar.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ExercicioEscolar\ExercicioEscolar\obj\Debug\ExercicioEscolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ExercicioEscolar\ExercicioEscolar\obj\Debug\ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ExercicioEscolar\ExercicioEscolar\obj\Debug\ExercicioEscolar.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ExercicioEscolar\ExercicioEscolar\obj\Debug\ExercicioEscolar.pdb
