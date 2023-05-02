@@ -10,12 +10,12 @@ namespace IMC
     {
         static void Main(string[] args)
         {
-            Pessoa pessoa = new Pessoa();
-            pessoa.peso = 80;
-            pessoa.altura = 1.80;
-            pessoa.mensangem();
+           Pessoa p = new Pessoa();
+            p.peso = 80;
+            p.altura = 1.80;
+            p.mensagem();
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

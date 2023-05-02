@@ -18,9 +18,8 @@ namespace ExercicioEscolar
 
         public string situacao(double media)
         {
-            return media >= 7 ? "Aprovado!" : "Reprovado!";
-    
-    }
+            return media > 7 ? "Aprovado" : "Reprovado";
+        }
 
         public void mensagem()
         {

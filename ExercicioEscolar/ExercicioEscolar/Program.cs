@@ -11,16 +11,13 @@ namespace ExercicioEscolar{
         static void Main(string[] args)
         {
           
-            Aluno a = new Aluno();
-            a.nome = "Denis";
-            a.nota1 = 5;
-            a.nota2 = 4;
+         Aluno a = new Aluno();
+            a.nome = "Roberto";
+            a.nota1 = 9;
+            a.nota2 = 8;
             a.mensagem();
 
-            Console.ReadLine();
-
-
-
+            Console.ReadKey();
         }
     }
 }

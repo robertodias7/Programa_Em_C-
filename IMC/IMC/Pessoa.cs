@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace IMC
@@ -16,13 +15,13 @@ namespace IMC
 
         }
 
-        public string situacao(double imc) 
+        public string situacao( double imc)
         {
             string retorno;
 
             if(imc < 18.5)
             {
-                retorno = "Abaixo do peso";
+                retorno = "Abaixo do Peso";
             }
             else if (imc < 25)
             {
@@ -30,7 +29,7 @@ namespace IMC
             }
             else if (imc < 30)
             {
-                retorno = "Acima do peso";
+                retorno = "Acima do Peso";
             }
             else if (imc < 35)
             {
@@ -49,16 +48,14 @@ namespace IMC
             return retorno;
 
         }
-
-        public void mensangem()
+        public void mensagem ()
         {
             double obterCalculo = calculo();
             string obterSituacao = situacao(obterCalculo);
 
-            Console.WriteLine("Seu IMC é de " + obterCalculo);
-            Console.WriteLine("Sua situação é " + obterSituacao);
-
-
+            Console.WriteLine("O seu IMC é " + obterCalculo);
+            Console.WriteLine("Sua situação é: " + obterSituacao);
         }
     }
+
 }
