@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\This\This\bin\Debug\This.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\This\This\bin\Debug\This.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\This\This\bin\Debug\This.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\This\This\obj\Debug\This.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\This\This\obj\Debug\This.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\This\This\obj\Debug\This.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\This\This\obj\Debug\This.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\This\This\obj\Debug\This.pdb

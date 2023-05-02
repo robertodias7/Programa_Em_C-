@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\GetandSet\GetandSet\bin\Debug\GetandSet.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\GetandSet\GetandSet\bin\Debug\GetandSet.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\GetandSet\GetandSet\bin\Debug\GetandSet.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\GetandSet\GetandSet\obj\Debug\GetandSet.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\GetandSet\GetandSet\obj\Debug\GetandSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\GetandSet\GetandSet\obj\Debug\GetandSet.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\GetandSet\GetandSet\obj\Debug\GetandSet.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\GetandSet\GetandSet\obj\Debug\GetandSet.pdb
