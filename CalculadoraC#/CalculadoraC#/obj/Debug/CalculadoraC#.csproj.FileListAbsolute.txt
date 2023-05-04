@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculadoraC#\CalculadoraC#\bin\Debug\CalculadoraC#.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculadoraC#\CalculadoraC#\bin\Debug\CalculadoraC#.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculadoraC#\CalculadoraC#\bin\Debug\CalculadoraC#.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.pdb
