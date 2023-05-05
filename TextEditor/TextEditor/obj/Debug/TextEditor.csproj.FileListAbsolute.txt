@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
