@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\EditorHtml\EditorHtml\bin\Debug\EditorHtml.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\EditorHtml\EditorHtml\bin\Debug\EditorHtml.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\EditorHtml\EditorHtml\bin\Debug\EditorHtml.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\EditorHtml\EditorHtml\obj\Debug\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\EditorHtml\EditorHtml\obj\Debug\EditorHtml.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\EditorHtml\EditorHtml\obj\Debug\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\EditorHtml\EditorHtml\obj\Debug\EditorHtml.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\EditorHtml\EditorHtml\obj\Debug\EditorHtml.pdb
