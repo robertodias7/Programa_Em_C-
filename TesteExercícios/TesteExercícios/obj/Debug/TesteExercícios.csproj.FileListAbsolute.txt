@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TesteExercícios\TesteExercícios\bin\Debug\TesteExercícios.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TesteExercícios\TesteExercícios\bin\Debug\TesteExercícios.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TesteExercícios\TesteExercícios\bin\Debug\TesteExercícios.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TesteExercícios\TesteExercícios\obj\Debug\TesteExercícios.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TesteExercícios\TesteExercícios\obj\Debug\TesteExercícios.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TesteExercícios\TesteExercícios\obj\Debug\TesteExercícios.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TesteExercícios\TesteExercícios\obj\Debug\TesteExercícios.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\TesteExercícios\TesteExercícios\obj\Debug\TesteExercícios.pdb

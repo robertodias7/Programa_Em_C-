@@ -11,10 +11,10 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            menu();
+            Menu();
         }
 
-        static void menu()
+        static void Menu()
         {
             Console.Clear();
             Console.WriteLine("_________________________________");
@@ -24,36 +24,31 @@ namespace Calculator
             Console.WriteLine("2 - Para Subtração");
             Console.WriteLine("3 - Para Multiplicação");
             Console.WriteLine("4 - Para Divisão");
-            Console.WriteLine("5 - Para SAIR");
+            Console.WriteLine("0 - Para SAIR");
             Console.WriteLine();
             Console.Write("_________________________________");
             Console.WriteLine();
             Console.WriteLine();
 
             Console.Write("Escolha um número: ");
-            
-            
-            
-
-           // Console.WriteLine();
 
             short res = short.Parse(Console.ReadLine());
 
             switch (res)
             {
+                case 0: System.Environment.Exit(0); break;
+                case 1: Soma(); break;
+                case 2: Subtracao(); break;
+                case 3: Multiplicacao(); break;
+                case 4: Divisao(); break;
                 
-                case 1: soma(); break;
-                case 2: subtracao(); break;
-                case 3: multiplicacao(); break;
-                case 4: divisao(); break;
-                case 5: System.Environment.Exit(0); break;
-                default: menu(); break;
+                default: Menu(); break;
 
             }
             Console.ReadKey();
 
         }
-        static void soma()
+        static void Soma()
         {
             Console.Clear();
 
@@ -65,18 +60,19 @@ namespace Calculator
 
             Console.Write("Segundo valor....: ");
             valor2 = float.Parse(Console.ReadLine());
-            Console.WriteLine("-------------------------");
+            Console.WriteLine("-------------------------"); ;
+            
 
             resultado = valor1 + valor2;
 
             Console.WriteLine();
             Console.WriteLine($"O resultado é..: {resultado}");
-            Console.Write("pressione <Enter> para voltar ao Menu ou [5] para sair ");
+            Console.Write("pressione <Enter> para voltar ao Menu");
             Console.ReadKey();
-            menu();
+            Menu();
         }
 
-        static void subtracao()
+        static void Subtracao()
         {
             Console.Clear();
 
@@ -88,18 +84,20 @@ namespace Calculator
 
             Console.Write("Segundo valor....: ");
             valor2 = float.Parse(Console.ReadLine());
+            Console.WriteLine("-------------------------");
+            
 
             resultado = valor1 - valor2;
 
             Console.WriteLine();
             Console.WriteLine($"O resultado é..: {resultado}");
-            Console.Write("pressione <Enter> para voltar ou [5] para sair");
+            Console.Write("pressione <Enter> para voltar ao Menu");
 
             Console.ReadKey();
-            menu();
+            Menu();
         }
 
-        static void multiplicacao()
+        static void Multiplicacao()
         {
             Console.Clear();
 
@@ -111,44 +109,37 @@ namespace Calculator
 
             Console.Write("Segundo valor....: ");
             valor2 = float.Parse(Console.ReadLine());
+            Console.WriteLine("-------------------------");
 
+            resultado = valor1 * valor2;
 
-            try
-            {
-                resultado = valor1 * valor2;
-                Console.WriteLine();
-                Console.WriteLine($"O resultado é..: {resultado}");
-            }
-
-            catch (DivideByZeroException dbze)
-            {
-                Console.WriteLine();
-                Console.WriteLine(dbze.Message);
-            }
-            Console.Write("pressione <Enter> para voltar ou [5] para sair ");
+            Console.WriteLine($"O resultado é..: {resultado}");
+            Console.Write("pressione <Enter> para voltar ao Menu");
 
             Console.ReadKey();
-            menu();
+            Menu();
         }
 
-        static void divisao()
+        static void Divisao()
         {
             Console.Clear();
 
-            float valor1, valor2, resultado;
+            double valor1, valor2, resultado;
 
             Console.WriteLine("---------------------");
             Console.Write("Primeiro valor...: ");
-            valor1 = float.Parse(Console.ReadLine());
+            valor1 = double.Parse(Console.ReadLine());
 
             Console.Write("Segundo valor....: ");
-            valor2 = float.Parse(Console.ReadLine());
+            valor2 = double.Parse(Console.ReadLine());
+            Console.WriteLine("-------------------------");
 
             try
             {
                 resultado = valor1 / valor2;
                 Console.WriteLine();
-                 Console.WriteLine($"O resultado é..: {resultado}");
+                Console.WriteLine($"O resultado é..: {resultado}");
+                Console.Write("pressione <Enter> para voltar ao Menu");
             }
 
             catch(DivideByZeroException dbze)
@@ -157,9 +148,8 @@ namespace Calculator
                 Console.WriteLine(dbze.Message);
             }
 
-            Console.Write("pressione <Enter> para voltar ou [5] para sair ");
-
             Console.ReadKey();
+            Menu(); 
             
         }
 
