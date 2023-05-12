@@ -10,30 +10,13 @@ namespace TesteExercícios
     {
         static void Main(string[] args)
         {
-            int i, n, r;
-            string resp = "S";
+            int valor = 1, resultado;
 
-            while(resp.ToUpper() == "S")
-            {
-                Console.Clear();
-                Console.WriteLine("PROGRAMA - TABUADA");
-                Console.WriteLine();
-                Console.Write("Entre com um valor: ");
-                n =  int.Parse(Console.ReadLine());
-                Console.WriteLine();
+            resultado = valor++;
 
-                for(i = 1; i <= 10; i++)
-                {
-                    r = n * i;
-                    Console.WriteLine($"{n, 2} x {i, 2} = {r, 3}");
-                }
-                Console.WriteLine();
-                Console.WriteLine("Deseja continuar?");
-                Console.Write("[S] para SIM e [N] para NÃO: ");
-                resp = Console.ReadLine();
-                //Console.ReadKey();
-            }
-            
+            Console.WriteLine(resultado);
+            Console.WriteLine(valor);
+            Console.ReadKey();
         }
             
     }
