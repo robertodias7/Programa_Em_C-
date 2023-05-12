@@ -10,18 +10,30 @@ namespace TesteExercícios
     {
         static void Main(string[] args)
         {
-            long fat = 1, i =1, n;
-            
-            Console.Clear();
-            Console.Write("Entre com um número: ");
-            n = long.Parse(Console.ReadLine());
+            int i, n, r;
+            string resp = "S";
 
-            for(; i<=n; i++)
+            while(resp.ToUpper() == "S")
             {
-                fat *= i;
+                Console.Clear();
+                Console.WriteLine("PROGRAMA - TABUADA");
+                Console.WriteLine();
+                Console.Write("Entre com um valor: ");
+                n =  int.Parse(Console.ReadLine());
+                Console.WriteLine();
+
+                for(i = 1; i <= 10; i++)
+                {
+                    r = n * i;
+                    Console.WriteLine($"{n, 2} x {i, 2} = {r, 3}");
+                }
+                Console.WriteLine();
+                Console.WriteLine("Deseja continuar?");
+                Console.Write("[S] para SIM e [N] para NÃO: ");
+                resp = Console.ReadLine();
+                //Console.ReadKey();
             }
-            Console.WriteLine($"O fatorial de {n} = {fat}");
-            Console.ReadKey();
+            
         }
             
     }
