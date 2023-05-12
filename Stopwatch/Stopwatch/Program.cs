@@ -11,10 +11,10 @@ namespace Stopwatch
     {
         static void Main(string[] args)
         {
-            menu();
+            Menu();
         }
 
-        static void menu()
+        static void Menu()
         {
             Console.Clear();
             Console.WriteLine("[S] - Segundos => 10s");
@@ -26,17 +26,20 @@ namespace Stopwatch
             char type = char.Parse(data.Substring(data.Length - 1, 1));// Para pegar o último caractere que o usuário digitou
             int time = int.Parse(data.Substring(0, data.Length - 1)); //Para pegar o tempo, a quantidade de  números
             int multilier = 1;
+    
 
             if (type == 'm')
                 multilier = 60-1;
-            if (type ==0)
+
+             if(type == 0)
                 System.Environment.Exit(0);
 
-            preStart(time * multilier);
-            Console.ReadKey();
+                Console.ReadKey();
+
+            PreStart(time * multilier);
         }
 
-        static void preStart(int time)
+        static void PreStart(int time)
         {
             Console.Clear();
             Console.WriteLine("Ready...");
@@ -46,12 +49,12 @@ namespace Stopwatch
             Console.WriteLine("Go...");
             Thread.Sleep(2500);
 
-            start(time);
+            Start(time);
             Console.ReadKey();
                 
         }
 
-        static void start(int time = 6, int currentTime = 0)
+        static void Start(int time = 6, int currentTime = 0)
         {
 
             while(currentTime != time) 
@@ -64,7 +67,7 @@ namespace Stopwatch
             Console.Clear() ;
             Console.WriteLine("Tempo Finalizado!");
             Thread.Sleep(2500);
-            menu();
+            Menu();
 
         }
     }

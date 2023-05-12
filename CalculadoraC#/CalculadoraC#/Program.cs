@@ -48,6 +48,7 @@ namespace Calculator
             Console.ReadKey();
 
         }
+
         static void Soma()
         {
             Console.Clear();
