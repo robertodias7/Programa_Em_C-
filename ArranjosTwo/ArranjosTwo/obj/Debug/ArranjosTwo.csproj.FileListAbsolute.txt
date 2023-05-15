@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosTwo\ArranjosTwo\bin\Debug\ArranjosTwo.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosTwo\ArranjosTwo\bin\Debug\ArranjosTwo.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosTwo\ArranjosTwo\bin\Debug\ArranjosTwo.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosTwo\ArranjosTwo\obj\Debug\ArranjosTwo.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosTwo\ArranjosTwo\obj\Debug\ArranjosTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosTwo\ArranjosTwo\obj\Debug\ArranjosTwo.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosTwo\ArranjosTwo\obj\Debug\ArranjosTwo.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosTwo\ArranjosTwo\obj\Debug\ArranjosTwo.pdb

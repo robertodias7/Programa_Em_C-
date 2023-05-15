@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Arranjos\Arranjos\bin\Debug\Arranjos.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Arranjos\Arranjos\bin\Debug\Arranjos.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Arranjos\Arranjos\bin\Debug\Arranjos.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Arranjos\Arranjos\obj\Debug\Arranjos.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Arranjos\Arranjos\obj\Debug\Arranjos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Arranjos\Arranjos\obj\Debug\Arranjos.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Arranjos\Arranjos\obj\Debug\Arranjos.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Arranjos\Arranjos\obj\Debug\Arranjos.pdb
