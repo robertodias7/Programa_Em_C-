@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MethodString\MethodString\bin\Debug\MethodString.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MethodString\MethodString\bin\Debug\MethodString.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MethodString\MethodString\bin\Debug\MethodString.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MethodString\MethodString\obj\Debug\MethodString.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MethodString\MethodString\obj\Debug\MethodString.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MethodString\MethodString\obj\Debug\MethodString.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MethodString\MethodString\obj\Debug\MethodString.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MethodString\MethodString\obj\Debug\MethodString.pdb

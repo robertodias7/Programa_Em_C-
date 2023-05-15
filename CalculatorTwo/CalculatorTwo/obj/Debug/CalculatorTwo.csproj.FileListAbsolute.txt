@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculatorTwo\CalculatorTwo\bin\Debug\CalculatorTwo.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculatorTwo\CalculatorTwo\bin\Debug\CalculatorTwo.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculatorTwo\CalculatorTwo\bin\Debug\CalculatorTwo.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculatorTwo\CalculatorTwo\obj\Debug\CalculatorTwo.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculatorTwo\CalculatorTwo\obj\Debug\CalculatorTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculatorTwo\CalculatorTwo\obj\Debug\CalculatorTwo.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculatorTwo\CalculatorTwo\obj\Debug\CalculatorTwo.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\CalculatorTwo\CalculatorTwo\obj\Debug\CalculatorTwo.pdb

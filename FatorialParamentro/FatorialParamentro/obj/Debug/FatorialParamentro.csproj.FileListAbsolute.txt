@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialParamentro\FatorialParamentro\bin\Debug\FatorialParamentro.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialParamentro\FatorialParamentro\bin\Debug\FatorialParamentro.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialParamentro\FatorialParamentro\bin\Debug\FatorialParamentro.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialParamentro\FatorialParamentro\obj\Debug\FatorialParamentro.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialParamentro\FatorialParamentro\obj\Debug\FatorialParamentro.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialParamentro\FatorialParamentro\obj\Debug\FatorialParamentro.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialParamentro\FatorialParamentro\obj\Debug\FatorialParamentro.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\FatorialParamentro\FatorialParamentro\obj\Debug\FatorialParamentro.pdb
