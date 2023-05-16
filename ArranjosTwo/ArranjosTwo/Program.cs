@@ -33,9 +33,8 @@ namespace ArranjosTwo
 
             for(int i = 0;i<=9; i++)
             {
-                Console.Write("A[{0}] = {1,4} / ",i, A[i]);
-                Console.Write("B[{0}] = {1,4}",
-                    i, B[i]);
+                Console.Write("A[{0}] = {1,2} / ",i, A[i]);
+                Console.Write("B[{0}] = {1,2}",i, B[i]);
                 Console.WriteLine();
             }
 

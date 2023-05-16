@@ -13,26 +13,25 @@ namespace TesteExercícios
     {
         static void Main(string[] args)
         {
-            Console.Title = "Arranjo";
-            Console.BackgroundColor = ConsoleColor.Green;
-            Console.ForegroundColor = ConsoleColor.Black;
+            int[] A = new int[10];
+            int[] B = new int[10];
 
-            float[] MDG = new float[8];
-            float soma = 0, media;
-
-            for(int i = 0; i <=7; i++)
+            for (int i = 0; i <= 9; i++)
             {
-                Console.Write($"Média {i +1}o aluno: ");
-                MDG[i] = float.Parse( Console.ReadLine() );
-                soma += MDG[i];
-            }
+                A[i] = int.Parse(Console.ReadLine());
+                Console.WriteLine("Média do aluno{0}", A[i]);
 
-            media = soma / 8;
-            Console.WriteLine();
-            Console.Write("A média geral é de: {0:0.00}", media);
-            Console.WriteLine();
-            Console.WriteLine("pressione algo para sair...");
-            Console.ReadKey();
+                if (A[i] % 2 == 0)
+                {
+                    B[i] = A[i];
+                    B[i] *= B[i];
+                }
+                else
+                {
+                    B[i] = A[i];
+                    B[i] += B[i];
+                }
+            }        
         }
     }
 }

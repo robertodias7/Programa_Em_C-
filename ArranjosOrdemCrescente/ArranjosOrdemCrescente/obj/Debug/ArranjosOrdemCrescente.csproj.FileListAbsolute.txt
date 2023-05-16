@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosOrdemCrescente\ArranjosOrdemCrescente\bin\Debug\ArranjosOrdemCrescente.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosOrdemCrescente\ArranjosOrdemCrescente\bin\Debug\ArranjosOrdemCrescente.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosOrdemCrescente\ArranjosOrdemCrescente\bin\Debug\ArranjosOrdemCrescente.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosOrdemCrescente\ArranjosOrdemCrescente\obj\Debug\ArranjosOrdemCrescente.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosOrdemCrescente\ArranjosOrdemCrescente\obj\Debug\ArranjosOrdemCrescente.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosOrdemCrescente\ArranjosOrdemCrescente\obj\Debug\ArranjosOrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosOrdemCrescente\ArranjosOrdemCrescente\obj\Debug\ArranjosOrdemCrescente.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosOrdemCrescente\ArranjosOrdemCrescente\obj\Debug\ArranjosOrdemCrescente.pdb

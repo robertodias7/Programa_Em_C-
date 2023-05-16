@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosNomeAscendente\ArranjosNomeAscendente\bin\Debug\ArranjosNomeAscendente.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosNomeAscendente\ArranjosNomeAscendente\bin\Debug\ArranjosNomeAscendente.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosNomeAscendente\ArranjosNomeAscendente\bin\Debug\ArranjosNomeAscendente.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosNomeAscendente\ArranjosNomeAscendente\obj\Debug\ArranjosNomeAscendente.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosNomeAscendente\ArranjosNomeAscendente\obj\Debug\ArranjosNomeAscendente.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosNomeAscendente\ArranjosNomeAscendente\obj\Debug\ArranjosNomeAscendente.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosNomeAscendente\ArranjosNomeAscendente\obj\Debug\ArranjosNomeAscendente.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ArranjosNomeAscendente\ArranjosNomeAscendente\obj\Debug\ArranjosNomeAscendente.pdb
