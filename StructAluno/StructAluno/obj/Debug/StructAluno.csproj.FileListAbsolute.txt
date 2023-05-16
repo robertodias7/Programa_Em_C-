@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\StructAluno\StructAluno\bin\Debug\StructAluno.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\StructAluno\StructAluno\bin\Debug\StructAluno.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\StructAluno\StructAluno\bin\Debug\StructAluno.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\StructAluno\StructAluno\obj\Debug\StructAluno.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\StructAluno\StructAluno\obj\Debug\StructAluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\StructAluno\StructAluno\obj\Debug\StructAluno.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\StructAluno\StructAluno\obj\Debug\StructAluno.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\StructAluno\StructAluno\obj\Debug\StructAluno.pdb
