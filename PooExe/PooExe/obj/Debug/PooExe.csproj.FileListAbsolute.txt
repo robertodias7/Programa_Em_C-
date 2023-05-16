@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooExe\PooExe\bin\Debug\PooExe.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooExe\PooExe\bin\Debug\PooExe.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooExe\PooExe\bin\Debug\PooExe.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooExe\PooExe\obj\Debug\PooExe.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooExe\PooExe\obj\Debug\PooExe.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooExe\PooExe\obj\Debug\PooExe.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooExe\PooExe\obj\Debug\PooExe.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooExe\PooExe\obj\Debug\PooExe.pdb
