@@ -27,6 +27,7 @@ namespace ModoGrafico2
             textBox1.Clear();
             textBox2.Clear();
             label3.Text = "";
+            textBox1.Focus();
         }
     }
 }
