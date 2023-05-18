@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\bin\Debug\ButtonRadio.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\bin\Debug\ButtonRadio.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\bin\Debug\ButtonRadio.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\obj\Debug\ButtonRadio.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\obj\Debug\ButtonRadio.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\obj\Debug\ButtonRadio.Form1.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\obj\Debug\ButtonRadio.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\obj\Debug\ButtonRadio.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\obj\Debug\ButtonRadio.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\obj\Debug\ButtonRadio.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ButtonRadio\ButtonRadio\obj\Debug\ButtonRadio.pdb

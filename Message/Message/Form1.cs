@@ -125,8 +125,9 @@ namespace Message
                 MessageBoxDefaultButton.Button3,
                 MessageBoxOptions.RightAlign
 
-                //Mensagem de ERRO
-                //OK
+                /*Mensagem Com 3 botões
+                SIM NÃO CANCELAR
+                OK*/
 
              );
         }
