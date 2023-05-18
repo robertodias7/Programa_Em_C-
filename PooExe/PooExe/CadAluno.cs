@@ -5,11 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace PooExe
-{
-    internal class CadAluno
+{   
+    class SalaAula
+    {
+        public int SALA;
+    }
+    internal class CadAluno : SalaAula
     {
         public string NOME;
-        public int SALA;
         public float[] NOTA = new float[4];
 
         public float CalMedia()

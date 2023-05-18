@@ -14,7 +14,7 @@ namespace PooExe
 
             Console.Write("Entre o nome ..: ");
             ALUNO.NOME = Console.ReadLine();
-            Console.Write("Entre a sala ...:");
+            Console.Write("Entre a sala ..: ");
             ALUNO.SALA = int.Parse(Console.ReadLine());
             Console.WriteLine();
             Console.WriteLine("Entre as notas:");
@@ -27,6 +27,7 @@ namespace PooExe
             ALUNO.CalMedia();
             Console.WriteLine();
             Console.WriteLine($"Nome ..........: {ALUNO.NOME}");
+            Console.WriteLine($"Sala ..........: {ALUNO.SALA}");
             Console.WriteLine();
             Console.WriteLine("Notas:");
             Console.WriteLine();
@@ -34,14 +35,12 @@ namespace PooExe
             for (int i = 0; i <= 3; i++)
             {
                 Console.Write($"{i + 1}a. nota ......: ");
-                Console.WriteLine("{0,5:0.00}", ALUNO.NOTA[i]);
+                Console.WriteLine("{0,5:0.0}", ALUNO.NOTA[i]);
             }
 
             Console.WriteLine();
-            Console.WriteLine("Média .........: {0,5:0.00}", ALUNO.CalMedia());
+            Console.WriteLine("Média .........: {0,5:0.0}", ALUNO.CalMedia());
 
-            Console.WriteLine();
-            Console.WriteLine("Tecle algo para encerrar... ");
             Console.ReadKey();
             
         }

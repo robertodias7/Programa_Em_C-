@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooEncapsulamento\PooEncapsulamento\bin\Debug\PooEncapsulamento.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooEncapsulamento\PooEncapsulamento\bin\Debug\PooEncapsulamento.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooEncapsulamento\PooEncapsulamento\bin\Debug\PooEncapsulamento.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooEncapsulamento\PooEncapsulamento\obj\Debug\PooEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooEncapsulamento\PooEncapsulamento\obj\Debug\PooEncapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooEncapsulamento\PooEncapsulamento\obj\Debug\PooEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooEncapsulamento\PooEncapsulamento\obj\Debug\PooEncapsulamento.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\PooEncapsulamento\PooEncapsulamento\obj\Debug\PooEncapsulamento.pdb
