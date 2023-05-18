@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\obj\Debug\Menssagem.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\obj\Debug\Menssagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\obj\Debug\Menssagem.Form1.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\obj\Debug\Menssagem.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\obj\Debug\Menssagem.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\obj\Debug\Menssagem.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\bin\Debug\Menssagem.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\bin\Debug\Menssagem.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\bin\Debug\Menssagem.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\obj\Debug\Menssagem.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Menssagem\Menssagem\obj\Debug\Menssagem.pdb
