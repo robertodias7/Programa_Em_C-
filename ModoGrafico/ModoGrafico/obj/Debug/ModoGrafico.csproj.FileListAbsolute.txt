@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\bin\Debug\ModoGrafico.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\bin\Debug\ModoGrafico.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\bin\Debug\ModoGrafico.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\obj\Debug\ModoGrafico.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\obj\Debug\ModoGrafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\obj\Debug\ModoGrafico.Form1.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\obj\Debug\ModoGrafico.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\obj\Debug\ModoGrafico.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\obj\Debug\ModoGrafico.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\obj\Debug\ModoGrafico.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ModoGrafico\ModoGrafico\obj\Debug\ModoGrafico.pdb
