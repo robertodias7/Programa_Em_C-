@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\bin\Debug\MediaEscolarGrafico.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\bin\Debug\MediaEscolarGrafico.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\bin\Debug\MediaEscolarGrafico.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\obj\Debug\MediaEscolarGrafico.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\obj\Debug\MediaEscolarGrafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\obj\Debug\MediaEscolarGrafico.Form1.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\obj\Debug\MediaEscolarGrafico.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\obj\Debug\MediaEscolarGrafico.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\obj\Debug\MediaEscolarGrafico.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\obj\Debug\MediaEscolarGrafico.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\MediaEscolarGrafico\MediaEscolarGrafico\obj\Debug\MediaEscolarGrafico.pdb

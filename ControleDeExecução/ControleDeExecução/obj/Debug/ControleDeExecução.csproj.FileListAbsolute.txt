@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\bin\Debug\ControleDeExecução.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\bin\Debug\ControleDeExecução.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\bin\Debug\ControleDeExecução.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\obj\Debug\ControleDeExecução.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\obj\Debug\ControleDeExecução.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\obj\Debug\ControleDeExecução.Form1.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\obj\Debug\ControleDeExecução.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\obj\Debug\ControleDeExecução.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\obj\Debug\ControleDeExecução.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\obj\Debug\ControleDeExecução.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\ControleDeExecução\ControleDeExecução\obj\Debug\ControleDeExecução.pdb
