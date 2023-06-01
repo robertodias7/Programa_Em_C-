@@ -19,8 +19,7 @@ namespace Associacao
             casa.Cidade = "SAD";
 
             cliente.Residencia = casa;
-            Console.WriteLine(cliente.Residencia);
-            Console.ReadKey();
+            
         }
     }
 }
