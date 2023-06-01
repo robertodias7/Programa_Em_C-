@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Associacao\Associacao\bin\Debug\Associacao.exe.config
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Associacao\Associacao\bin\Debug\Associacao.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Associacao\Associacao\bin\Debug\Associacao.pdb
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Associacao\Associacao\obj\Debug\Associacao.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Associacao\Associacao\obj\Debug\Associacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Associacao\Associacao\obj\Debug\Associacao.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Associacao\Associacao\obj\Debug\Associacao.exe
+C:\Users\rober\OneDrive\Documentos\UNIP_PAST\Programa_Em_C#\Associacao\Associacao\obj\Debug\Associacao.pdb
